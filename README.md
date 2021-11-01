@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinicius
 
-- 📚 Aluno da Generation Brasil
-- 🖥️ Futuro Desenvolvedor Java Júnior FullStack
+- 📚 Ex Aluno da Generation Brasil
+- 🖥️ Desenvolvedor Java Júnior FullStack em busca de oportunidades de emprego
 - 😄 Pronouns: ele/dele
 
 <div align="left">
